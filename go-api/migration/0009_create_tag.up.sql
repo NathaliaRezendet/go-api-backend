@@ -1,5 +1,0 @@
-CREATE TABLE tag (
-  id int(11) NOT NULL AUTO_INCREMENT,
-  Tags varchar(255) DEFAULT NULL,
-  PRIMARY KEY (id)
-);
